@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/tags/index.html</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/project/index.html</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/about/index.html</loc>
     
     <lastmod>2022-07-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/series/index.html</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/series/index.html</loc>
     
     <lastmod>2022-07-17</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/about/index.html</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/project/index.html</loc>
     
     <lastmod>2022-07-17</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/1970/01/01/hello-world/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/1970/01/01/hello-world/</loc>
     
     <lastmod>2022-07-17</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/about/me.html</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/about/me.html</loc>
     
     <lastmod>2022-07-16</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/2022/07/16/test/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/2022/07/16/test/</loc>
     
     <lastmod>2022-07-16</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>https://zhangxianbing.github.io/blog</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/tags/PS3/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/tags/PS3/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/tags/Games/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/tags/Games/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -90,21 +90,21 @@
 
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/categories/%E6%B5%8B%E8%AF%95/Python/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/categories/%E6%B5%8B%E8%AF%95/Python/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/blog/categories/Golang/</loc>
+    <loc>https://github.com/zhangxianbing/zhangxianbing.github.io/categories/Golang/</loc>
     <lastmod>2022-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
