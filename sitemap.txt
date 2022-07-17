@@ -1,3 +1,7 @@
+https://zhangxianbing.github.io/blog/tags/index.html
+https://zhangxianbing.github.io/blog/project/index.html
+https://zhangxianbing.github.io/blog/series/index.html
+https://zhangxianbing.github.io/blog/about/index.html
 https://zhangxianbing.github.io/blog/1970/01/01/hello-world/
 https://zhangxianbing.github.io/blog/about/me.html
 https://zhangxianbing.github.io/blog/2022/07/16/test/
