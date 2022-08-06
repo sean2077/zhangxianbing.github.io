@@ -4,16 +4,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/post/43699.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangxianbing.github.io/post/63534.html</loc>
-    
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/about/index.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/about/me.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/categories/index.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/contact/index.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +49,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/friends/index.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +58,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/tags/index.html</loc>
     
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +67,7 @@
 
   <url>
     <loc>https://zhangxianbing.github.io/</loc>
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +75,14 @@
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/Hexo/</loc>
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/Blog/</loc>
-    <lastmod>2022-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangxianbing.github.io/tags/GitHub/</loc>
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,7 +91,7 @@
   
   <url>
     <loc>https://zhangxianbing.github.io/categories/Hexo/</loc>
-    <lastmod>2022-07-24</lastmod>
+    <lastmod>2022-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

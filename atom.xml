@@ -6,7 +6,7 @@
   <link href="https://zhangxianbing.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhangxianbing.github.io/"/>
-  <updated>2022-07-24T09:26:59.502Z</updated>
+  <updated>2022-08-06T10:02:56.243Z</updated>
   <id>https://zhangxianbing.github.io/</id>
   
   <author>
@@ -17,27 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://zhangxianbing.github.io/post/63534.html"/>
-    <id>https://zhangxianbing.github.io/post/63534.html</id>
-    <published>2022-07-16T12:53:44.000Z</published>
-    <updated>2022-07-24T09:26:59.502Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>基于Hexo的hexo-theme-matery主题搭建博客并优化</title>
+    <title>基于 Hexo 博客 markdown 语法示例</title>
     <link href="https://zhangxianbing.github.io/post/43699.html"/>
     <id>https://zhangxianbing.github.io/post/43699.html</id>
-    <published>2019-12-30T01:25:00.000Z</published>
-    <updated>2022-07-24T09:26:59.502Z</updated>
+    <published>2022-08-06T09:37:57.000Z</published>
+    <updated>2022-08-06T10:02:56.243Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
     
     
     
@@ -47,8 +40,6 @@
     <category term="Hexo" scheme="https://zhangxianbing.github.io/tags/Hexo/"/>
     
     <category term="Blog" scheme="https://zhangxianbing.github.io/tags/Blog/"/>
-    
-    <category term="GitHub" scheme="https://zhangxianbing.github.io/tags/GitHub/"/>
     
   </entry>
   
