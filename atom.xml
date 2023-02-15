@@ -6,7 +6,7 @@
   <link href="https://zhangxianbing.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhangxianbing.github.io/"/>
-  <updated>2022-08-08T01:30:27.949Z</updated>
+  <updated>2023-02-15T04:02:20.179Z</updated>
   <id>https://zhangxianbing.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Linux 下 CUDA 错误后重置 GPU 和驱动程序</title>
+    <link href="https://zhangxianbing.github.io/post/49031.html"/>
+    <id>https://zhangxianbing.github.io/post/49031.html</id>
+    <published>2023-02-15T04:02:20.179Z</published>
+    <updated>2023-02-15T04:02:20.179Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Linux 下调试 CUDA 程序时经常遇到各种错误导致异常退出，Device 状态异常导致无法再次运行 CUDA 程序，这时除了可以重启机器外，还可以通过命令行的方式解决:&lt;/p&gt;
+&lt;p&gt;按&lt;code&gt;ctrl+alt+F1&lt;/code&gt;切换到</summary>
+        
+      
+    
+    
+    
+    <category term="CUDA" scheme="https://zhangxianbing.github.io/categories/CUDA/"/>
+    
+    
+    <category term="CUDA" scheme="https://zhangxianbing.github.io/tags/CUDA/"/>
+    
+    <category term="Linux" scheme="https://zhangxianbing.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基于 Hexo 博客 markdown 语法示例</title>
     <link href="https://zhangxianbing.github.io/post/43699.html"/>
     <id>https://zhangxianbing.github.io/post/43699.html</id>
     <published>2022-08-06T09:37:57.000Z</published>
-    <updated>2022-08-08T01:30:27.949Z</updated>
+    <updated>2023-02-15T04:02:20.179Z</updated>
     
     
       

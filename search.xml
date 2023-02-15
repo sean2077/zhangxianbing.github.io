@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Linux 下 CUDA 错误后重置 GPU 和驱动程序</title>
+      <link href="/post/49031.html"/>
+      <url>/post/49031.html</url>
+      
+        <content type="html"><![CDATA[<p>Linux 下调试 CUDA 程序时经常遇到各种错误导致异常退出，Device 状态异常导致无法再次运行 CUDA 程序，这时除了可以重启机器外，还可以通过命令行的方式解决:</p><p>按<code>ctrl+alt+F1</code>切换到 tty1（图形界面下无效）, 登录后输入以下命令:</p><pre class="line-numbers language-none"><code class="language-none">sudo rmmod nvidia_uvmsudo modprobe nvidia_uvm<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>参考:</p><ul><li><a href="https://stackoverflow.com/a/57803619/14504212">https://stackoverflow.com/a/57803619/14504212</a></li><li><a href="https://askubuntu.com/a/109868/1195565">https://askubuntu.com/a/109868/1195565</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> CUDA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CUDA </tag>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于 Hexo 博客 markdown 语法示例</title>
       <link href="/post/43699.html"/>
       <url>/post/43699.html</url>
