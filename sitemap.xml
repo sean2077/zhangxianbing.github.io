@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhangxianbing.github.io/post/49031.html</loc>
+    <loc>https://zhangxianbing.github.io/post/43699.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://zhangxianbing.github.io/post/43699.html</loc>
+    <loc>https://zhangxianbing.github.io/post/12734.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/about/index.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/about/me.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/categories/index.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/contact/index.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>https://zhangxianbing.github.io/friends/index.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,16 @@
   <url>
     <loc>https://zhangxianbing.github.io/tags/index.html</loc>
     
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangxianbing.github.io/post/49031.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://zhangxianbing.github.io/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,28 +93,42 @@
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/CUDA/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/Linux/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/Hexo/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhangxianbing.github.io/tags/Blog/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangxianbing.github.io/tags/Python/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangxianbing.github.io/tags/Opencv/</loc>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -114,14 +137,21 @@
   
   <url>
     <loc>https://zhangxianbing.github.io/categories/CUDA/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhangxianbing.github.io/categories/Hexo/</loc>
-    <lastmod>2023-02-15</lastmod>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangxianbing.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
